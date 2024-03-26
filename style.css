@@ -48,10 +48,11 @@ main{
   text-align: center;
   padding: 5px;
 }
-h2{
+h1{
     font-weight: 800;
+    font-size: 25px;
 }
-h2:hover{
+h1:hover{
     color: hsl(47, 88%, 63%);
     cursor: pointer;
 }
